@@ -1,0 +1,30 @@
+h1 {
+    font-family: 'Kodchasan', sans-serif;
+   
+   }
+   
+   h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   }
+   
+   .jumbotron {
+       margin-top: 60px;
+       background-color: goldenrod (225, 245, 223, 0.55);
+       border: solid gold 2px;
+   }
+   
+   #quiz {
+       background-color: goldenrod (225, 245, 223, 0.55);
+       border: solid gold 2px;
+   }
+   
+   body {
+           background-image: url(../images/killbill.jpg);
+           background-repeat: repeat-xy;
+   }
+   
+   #results-modal {
+       background-color: rgba(225, 245, 223, 0.55);
+       border: solid gold 2px;
+   
+   }
